@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_c1c895b4199830bd8ef2f4bfa18def78c0f380d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3e1e1955c2976af00236bca28ae3a41c7011df2d">
+        <dex dex="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\pre-dexed\debug\instant-run_854d60a586ee15f3b77278e4e8eea4bbc11dd3b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="55e6aa552bebd568caa5e6136d45ffa7a8191718">
+        <dex dex="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_415c6745e508a8ad92a61b418fa0350724ec9a5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_fad5d1cf11697552ce94d362f2f1d3604f62f792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_cfd7548f865b74da5cb5cfd523f4f021f617e3e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_225e0782d8b332843cac6d0e001f760efe08b266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\beifen\NavigationBar-master\NavigationBar\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_efae2706308d8da9f22e65f20a5544ffc4c8ce96.jar" />
+    </item>
+
+</items>
